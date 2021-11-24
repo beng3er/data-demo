@@ -8,19 +8,19 @@
                     "label":"类别 1.1",
                     "children":null,
                                             "uv":1,
-                                            "sum":1,
-                                            "count":10
+                                            "sum":10,
+                                            "count":1
                 },{
                     "label":"类别 1.2",
                     "children":null,
                                             "uv":1,
-                                            "sum":1,
-                                            "count":90
+                                            "sum":190,
+                                            "count":1
                 }
             ],
             "uv":0,
-            "sum":1,
-            "count":100
+            "sum":100,
+            "count":1
         },
         {
             "label":"类别 2",
