@@ -37,24 +37,17 @@
                     "label": "华南2部",
                     "children": [
                         {
+                            "label": "萌箭传说iOS",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 3253,
+                            "count": 1
+                        },
+                        {
                             "label": "家园卫士iOS",
                             "children": null,
                             "uv": 1,
-                            "sum": 953,
-                            "count": 1
-                        },
-                        {
-                            "label": "原始人大作战hnios",
-                            "children": null,
-                            "uv": 1,
-                            "sum": 154,
-                            "count": 1
-                        },
-                        {
-                            "label": "家园卫士hnaz",
-                            "children": null,
-                            "uv": 1,
-                            "sum": 152,
+                            "sum": 3,
                             "count": 1
                         }
                     ],
