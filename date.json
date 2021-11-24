@@ -54,6 +54,40 @@
                     "uv": 1,
                     "sum": 3255,
                     "count": 1
+                },                {
+                    "label": "华北部",
+                    "children": [
+                        {
+                            "label": "家园卫士iOS",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 3818,
+                            "count": 1
+                        },
+                        {
+                            "label": "原始人大作战hbaz",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 781,
+                            "count": 1
+                        },
+                        {
+                            "label": "弓箭大师IOS",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 4547,
+                            "count": 1
+                        },{
+                            "label": "新弓箭传奇ios",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 4449,
+                            "count": 1
+                        }
+                    ],
+                    "uv": 1,
+                    "sum": 1259,
+                    "count": 1
                 }
             ]
         }
