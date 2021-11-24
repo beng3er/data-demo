@@ -2,7 +2,7 @@
     "label": "root",
     "children": [
         {
-            "label": "家园卫士",
+            "label": "游戏1",
             "children": [
                 {
                     "label": "华南1部",
@@ -54,7 +54,8 @@
                     "uv": 1,
                     "sum": 3255,
                     "count": 1
-                },                {
+                },
+                {
                     "label": "华北部",
                     "children": [
                         {
@@ -77,7 +78,8 @@
                             "uv": 1,
                             "sum": 4547,
                             "count": 1
-                        },{
+                        },
+                        {
                             "label": "新弓箭传奇ios",
                             "children": null,
                             "uv": 1,
@@ -88,8 +90,85 @@
                     "uv": 1,
                     "sum": 1259,
                     "count": 1
+                },                {
+                    "label": "华东部",
+                    "children": [
+                        {
+                            "label": "萌箭传说ios",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 571,
+                            "count": 1
+                        },
+                        {
+                            "label": "射手必须死ios",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 4789,
+                            "count": 1
+                        },
+                        {
+                            "label": "射手必须死az",
+                            "children": null,
+                            "uv": 1,
+                            "sum": 2,
+                            "count": 1
+                        }
+                    ],
+                    "uv": 1,
+                    "sum": 27397,
+                    "count": 1
                 }
             ]
+        },
+        {
+            "label": "游戏2",
+            "children": null,
+                    "uv": 1,
+                    "sum": 11000,
+                    "count": 1
+        },
+        {
+            "label": "游戏3",
+            "children": null,
+                    "uv": 1,
+                    "sum": 10500,
+                    "count": 1
+        },
+        {
+            "label": "游戏4",
+            "children": null,
+                    "uv": 1,
+                    "sum": 4015,
+                    "count": 1
+        },
+        {
+            "label": "游戏5",
+            "children": null,
+                    "uv": 1,
+                    "sum": 4000,
+                    "count": 1
+        },
+        {
+            "label": "游戏6",
+            "children": null,
+                    "uv": 1,
+                    "sum": 3880,
+                    "count": 1
+        },
+        {
+            "label": "游戏7",
+            "children": null,
+                    "uv": 1,
+                    "sum": 2500,
+                    "count": 1
+        },
+        {
+            "label": "游戏8",
+            "children": null,
+                    "uv": 1,
+                    "sum": 2450,
+                    "count": 1
         }
     ]
 }
